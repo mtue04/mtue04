@@ -43,6 +43,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/mtue04/mtue04/output/snake.svg" alt="Snake animation" />
-![snake gif]
-https://github.com/mtue04/mtue04/blob/output/snake.svg
+
 ###
