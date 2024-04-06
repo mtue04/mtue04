@@ -1,4 +1,4 @@
-<h4 align="center">Hi there👋! My name is Minh Tue and I'm a student, from University of Science, VNU-HCM</h4>
+<h4 align="center">Hi there👋! My name is Minh Tue (a.k.a. William Phan) and I'm a student, from University of Science, VNU-HCM</h4>
 
 ###
 
