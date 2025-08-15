@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Tue Phan Vo Minh (Dylan), a student at the University of Science, VNU-HCM. I have a strong passion for AI/ML.</h2>
+<h2 align="left">Yo 👋! I'm Tue Phan Vo Minh.</h2>
 
 ###
 
