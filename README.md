@@ -59,7 +59,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtue04&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtue04&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="streak graph" onerror="this.style.display='none'" />
 </div>
 
 ###
@@ -71,17 +71,19 @@
   <a href="https://www.facebook.com/pvomt.04" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
   </a>
-  <a href="pvmtue29@gmail.com" target="_blank">
+  <a href="mailto:pvmtue29@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mtue04/mtue04/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mtue04/mtue04/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mtue04/mtue04/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mtue04/mtue04/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mtue04/mtue04/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/mtue04/mtue04/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</div>
 
 ###
