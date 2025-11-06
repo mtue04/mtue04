@@ -21,15 +21,13 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Generate snake and pacman graphs
+      - name: Generate contribution graphs
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-            dist/pacman-contribution-graph.svg?color_snake=orange&color_dots=#bfd6f6
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=orange&color_dots=#bfd6f6
+            dist/pacman-contribution-graph.svg?palette=github-light&type=pacman
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark&type=pacman
 
       - name: Push graphs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
