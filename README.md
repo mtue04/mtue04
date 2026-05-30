@@ -12,7 +12,7 @@
   </a>
   </p>
   <p>
-    <em>🎓 AI Engineer Intern @ BGSV &nbsp; | &nbsp; Undergrad @ HCMUS.</em>
+    <em>AI Engineer Intern @ BGSV &nbsp; | &nbsp; Undergrad @ HCMUS.</em>
   </p>
 </div>
 
